@@ -5,8 +5,11 @@ body{
 }
 .first-sec{
     display:flex;
-    margin-bottom: 100px;
-    margin: 5%;
+    margin-bottom: 150px;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+   
 }
 .first-heading{
     color:rgb(112, 112, 110);
@@ -19,7 +22,7 @@ body{
 .first-sec .div-width{
     width: 50%;
 }
-.first-sec .allignment{
+.first-sec .allignment1{
     padding-top: 12%;
     padding-left: 3%;
 }
@@ -33,4 +36,37 @@ body{
     border-radius: 50px;
     background-image: linear-gradient(rgb(71, 187, 115),rgb(241, 66, 35));
     padding: 20px 40px;
+    box-shadow: 5px 5px 5px rgb(228, 153, 15);
+}
+.second-sec{
+    display:flex;
+    margin-bottom: 150px;
+    background-image: url(files/images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+.second-sec .sec-heading{
+    color: rgb(112, 112, 110);
+    font-size: 35px;
+    font-weight: bolder;
+}
+.second-sec .sec-par{
+    font-size: 16px;
+}
+.second-sec .div2-width{
+    width: 50%;
+}
+.second-sec .sec-img{
+    width: 60%;
+}
+.second-sec .allignment2{
+    padding-top: 5%;
+    padding-left: 13%;
+    padding-right: 2%;
+}
+.second-sec .allignment3{
+    margin-top: 7%;
+    margin-right: 10%
+}
+.div2-width .contact-me{
+    margin-top: 100px;
 }
