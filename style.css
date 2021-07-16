@@ -70,3 +70,33 @@ body{
 .div2-width .contact-me{
     margin-top: 100px;
 }
+.allignment4{
+    text-align: center;
+    color:rgb(165, 82, 133);
+}
+.third-heading{
+    color: rgb(112, 112, 110);
+    font-size: 35px;
+    font-weight: bolder;
+}
+.third-sec .third-div{
+    display:flex;
+    margin-bottom: 150px;
+    margin: 5%;
+}
+.third-div .cover{
+    width: 30%;
+    margin-left: 2%;
+    margin-right: 2%;
+    box-shadow: 0px 0px 10px 5px rgb(204, 202, 202);
+    border-radius: 20px;
+    padding: 20px;
+}
+.Recipie{
+    width: 100%;
+    margin-bottom: 10px;
+}
+.R_title{
+    font-size: 30px;
+    font-weight: bolder;
+}
