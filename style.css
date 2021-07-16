@@ -70,6 +70,9 @@ body{
 .div2-width .contact-me{
     margin-top: 100px;
 }
+.third-sec{
+    margin-bottom: 150px;
+}
 .allignment4{
     text-align: center;
     color:rgb(165, 82, 133);
@@ -99,4 +102,19 @@ body{
 .R_title{
     font-size: 30px;
     font-weight: bolder;
+}
+.additional-box{
+    display: flex;
+    margin: 6%;
+    box-shadow: 0px 0px 10px 5px rgb(204, 202, 202);
+    border-radius: 25px;
+}
+.additional-box h1{
+    font-size: 45px;
+    font-weight: bolder;
+}
+.additional-box .units{
+    width: 25%;
+    margin: 6%;
+    padding-left: 5%;
 }
