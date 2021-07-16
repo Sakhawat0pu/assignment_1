@@ -1,0 +1,36 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0;
+    border: 15px solid rgb(54, 54, 54);
+}
+.first-sec{
+    display:flex;
+    margin-bottom: 100px;
+    margin: 5%;
+}
+.first-heading{
+    color:rgb(112, 112, 110);
+    font-weight: bolder;
+    font-size: 65px;
+}
+.color_s{
+    color: rgb(236, 132, 94);
+}
+.first-sec .div-width{
+    width: 50%;
+}
+.first-sec .allignment{
+    padding-top: 12%;
+    padding-left: 3%;
+}
+.first-par{
+    font-size: 20px;
+}
+.order_food{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    border-radius: 50px;
+    background-image: linear-gradient(rgb(71, 187, 115),rgb(241, 66, 35));
+    padding: 20px 40px;
+}
